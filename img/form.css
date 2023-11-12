@@ -1,0 +1,27 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    }
+    body {
+        background-image: url();
+        background-color:#bcb2ad;
+        background-repeat: no-repeat;
+        background-position: center center;
+        text-align: center;
+        margin: 0;
+    }
+
+    section {
+        background-color: #4c3232;
+        padding: 20px;
+        margin: 20px;
+        border-radius: 8px;
+    }
+    
+    .container {
+        font-family: 'Kanit', sans-serif;
+        max-width: 400px;
+        margin: 0 auto;
+    }
+    
